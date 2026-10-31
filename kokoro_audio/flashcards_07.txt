@@ -1,0 +1,17 @@
+Question 61: Classify: temperature in °C.
+Answer: Quantitative → continuous → interval.
+
+Question 62: A JSON object stores a 1–5 satisfaction rating. How is it classified?
+Answer: Storage: semi-structured. Variable meaning: ordinal.
+
+Question 63: A free-text clinical note has author, timestamp, and ID fields. What is it?
+Answer: The note body is unstructured content; its surrounding metadata can be structured.
+
+Question 64: Orders.product_id must reference Products.product_id. Name the concepts.
+Answer: Foreign key + referential integrity.
+
+Question 65: A table mixes one row per customer with one row per purchase. What is the first problem?
+Answer: The row grain is undefined or mixed.
+
+Question 66: What is the canonical organization workflow for an agent?
+Answer: Define meaning → classify variables → set grain/schema → assign keys → model relationships → add constraints → normalize → attach metadata/provenance.
