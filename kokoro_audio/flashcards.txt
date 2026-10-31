@@ -1,0 +1,29 @@
+Question 1: What is the broadest map for organizing data?
+Answer: Meaning → structure → record grain → identity → relationships → constraints → dependencies → metadata/provenance.
+
+Question 2: What is data?
+Answer: A representation of information, facts, concepts, or instructions suitable for interpretation, communication, or processing.
+
+Question 3: What is a schema?
+Answer: The declared structure of stored data: names, fields/columns, types, and constraints.
+
+Question 4: Schema vs. instance?
+Answer: Schema = the definition. Instance = the actual data values present at a particular time.
+
+Question 5: What is record grain?
+Answer: The exact real-world unit represented by one record/row.
+
+Question 6: What is metadata?
+Answer: Information describing the characteristics, structure, or contents of data.
+
+Question 7: What is provenance?
+Answer: A record of entities, activities, and agents involved in producing, influencing, or delivering data.
+
+Question 8: What six questions should an organizing agent ask about any dataset?
+Answer: What does it represent? What values are valid? What does one record mean? How is it identified? How does it relate? Where did it come from?
+
+Question 9: What is categorical data?
+Answer: Values represent classes, labels, or ordered categories rather than measured magnitude.
+
+Question 10: What is quantitative data?
+Answer: Values represent numerical quantities for which arithmetic meaning depends on the measurement scale.
