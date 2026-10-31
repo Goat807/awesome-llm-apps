@@ -1,0 +1,29 @@
+Question 11: What is a nominal scale?
+Answer: Categories have identity but no inherent order.
+
+Question 12: What is an ordinal scale?
+Answer: Categories have a meaningful order, but distances between ranks are not established as equal.
+
+Question 13: What is an interval scale?
+Answer: Ordered numeric values with equal intervals, but without a meaningful absolute zero for ratios.
+
+Question 14: What is a ratio scale?
+Answer: An interval scale with a meaningful zero, so ratios of values are meaningful.
+
+Question 15: What is discrete quantitative data?
+Answer: A quantitative variable whose possible values form a finite or countable set.
+
+Question 16: What is continuous quantitative data?
+Answer: A quantitative variable that can conceptually take values throughout a continuum or interval.
+
+Question 17: Does storing a category as a number make it quantitative?
+Answer: No. Numerical labels do not create numerical magnitude.
+
+Question 18: What constitutes the value of a physical quantity?
+Answer: A numerical value together with a unit: quantity value = number × unit.
+
+Question 19: What must accompany a reported measurement when uncertainty matters?
+Answer: The estimated value of the measurand and its associated uncertainty.
+
+Question 20: What is the measurement-scale hierarchy?
+Answer: Nominal → ordinal → interval → ratio; each level adds meaningful structure.
