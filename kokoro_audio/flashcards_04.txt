@@ -1,0 +1,29 @@
+Question 31: What is a primary key?
+Answer: A column or set of columns chosen to uniquely identify each row; it is unique and not null.
+
+Question 32: What is a foreign key?
+Answer: A column or set of columns constrained to reference a matching key in another table.
+
+Question 33: What is referential integrity?
+Answer: The rule that a foreign-key reference must correspond to valid referenced data.
+
+Question 34: What are the three common relationship cardinalities?
+Answer: One-to-one, one-to-many, and many-to-many.
+
+Question 35: How is a many-to-many relationship represented relationally?
+Answer: With an associative/junction relation containing keys that reference both sides.
+
+Question 36: What is a data type/domain?
+Answer: A definition of the kind or allowed set of values an attribute may contain.
+
+Question 37: What is a data constraint?
+Answer: A rule restricting which database states or values are allowed.
+
+Question 38: What does NOT NULL enforce?
+Answer: A required field cannot contain a null value.
+
+Question 39: What does UNIQUE enforce?
+Answer: No two permitted rows may share the same constrained value or value combination.
+
+Question 40: What does a CHECK constraint enforce?
+Answer: A Boolean condition that allowed row values must satisfy.
