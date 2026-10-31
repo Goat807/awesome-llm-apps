@@ -1,0 +1,29 @@
+Question 41: Is a missing value the same as zero or an empty string?
+Answer: No. Missing, zero, and empty are distinct states unless the schema explicitly defines them as equivalent.
+
+Question 42: What is the purpose of integrity rules?
+Answer: To prevent representable states that violate the dataset's declared semantics.
+
+Question 43: What is a functional dependency X → Y?
+Answer: Whenever two rows agree on X, they must also agree on Y; X determines Y.
+
+Question 44: What is data redundancy?
+Answer: The same logical fact is stored in multiple places.
+
+Question 45: What is normalization?
+Answer: Lossless decomposition of relations into simpler relations to reduce redundancy and inconsistency.
+
+Question 46: What is an update anomaly?
+Answer: A contradiction caused when one logical fact is duplicated and only some copies are updated.
+
+Question 47: What is the core normalization principle?
+Answer: Store independent facts according to their dependencies so each logical fact has a clear authoritative location.
+
+Question 48: Is denormalization always wrong?
+Answer: No. It can be chosen deliberately for performance, but duplicates facts and therefore requires consistency control.
+
+Question 49: What is structural metadata?
+Answer: Metadata describing data structure, such as format, syntax, or semantics.
+
+Question 50: What is descriptive metadata?
+Answer: Metadata describing data contents or characteristics.
