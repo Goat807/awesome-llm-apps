@@ -1,0 +1,29 @@
+Question 21: What is structured data?
+Answer: Data represented according to an explicit data model that defines how fields are represented and interpreted.
+
+Question 22: What is semi-structured data?
+Answer: Data that carries structural markers or is self-describing without a fixed tabular schema.
+
+Question 23: What is unstructured data?
+Answer: Data that does not follow a detailed domain data model.
+
+Question 24: Are measurement type and storage structure the same classification?
+Answer: No. They are independent axes: meaning classifies values; structure classifies representation.
+
+Question 25: Does a file format determine the semantics of its data?
+Answer: No. Format describes representation; semantics come from schema, definitions, units, and metadata.
+
+Question 26: What is a relation/table?
+Answer: A collection of rows/tuples sharing the same defined attributes/columns.
+
+Question 27: What is a tuple/row/record?
+Answer: One record containing a value for each attribute in a relation.
+
+Question 28: What is an attribute/column/field?
+Answer: A named property represented across records in a table.
+
+Question 29: What is a value in a relational record?
+Answer: The datum assigned to an attribute for one tuple/row.
+
+Question 30: What is the basic relational hierarchy?
+Answer: Database → tables/relations → rows/tuples → columns/attributes → values.
