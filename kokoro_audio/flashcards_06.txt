@@ -1,0 +1,29 @@
+Question 51: How are metadata and provenance related?
+Answer: Provenance records are metadata, but metadata can describe many things other than origin or derivation.
+
+Question 52: What are the three core W3C PROV concepts?
+Answer: Entity, Activity, Agent.
+
+Question 53: What is derivation in provenance?
+Answer: A relationship where an entity results from transforming, updating, or constructing from a pre-existing entity.
+
+Question 54: Why use a unique persistent identifier?
+Answer: It gives a stable reference so data and metadata can point to the same object across systems and time.
+
+Question 55: What should a derived datum retain?
+Answer: Its source entity, generating activity/transformation, responsible agent/system, and relevant version/time.
+
+Question 56: Why keep provenance separate from the value itself?
+Answer: The value answers “what”; provenance answers “where from/how/by whom.”
+
+Question 57: Classify: hair color.
+Answer: Categorical → nominal.
+
+Question 58: Classify: satisfaction = dissatisfied / neutral / satisfied.
+Answer: Categorical → ordinal.
+
+Question 59: Classify: number of employees.
+Answer: Quantitative → discrete → ratio.
+
+Question 60: Classify: measured height.
+Answer: Quantitative → continuous → ratio.
